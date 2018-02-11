@@ -1,5 +1,6 @@
 # Caso-de-Estudio
 Actividad De Ingeniería de Software en conjunto de Trello
+
 #include <iostream>
 
 using namespace std;
